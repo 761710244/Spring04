@@ -1,0 +1,1 @@
+JavaConfig实现Ioc。
